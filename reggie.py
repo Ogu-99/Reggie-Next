@@ -100,7 +100,7 @@ from levelitems import LocationItem, ZoneItem, ObjectItem, SpriteItem, EntranceI
 from dialogs import AutoSavedInfoDialog, DiagnosticToolDialog, ScreenCapChoiceDialog, AreaChoiceDialog, ObjectTypeSwapDialog, ObjectTilesetSwapDialog, ObjectShiftDialog, MetaInfoDialog, AboutDialog, CameraProfilesDialog
 from background import BGDialog
 
-from gui.dialogs.zone_dialog import ZonesDialog
+from gui.dialogs.zone_dialog import ZonesDialog, CameraModeZoomSettingsLayout
 
 from tiles import UnloadTileset, LoadTileset, LoadOverrides
 from area import AreaOptionsDialog
