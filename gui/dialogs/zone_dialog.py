@@ -1,7 +1,6 @@
 """
 zone_dialog.py
 
-A refactored Zones dialog for the main editor.
 This module defines:
   - ZonesDialog: a dialog with tabs for each zone.
   - ZoneTab: a widget for editing a single zone’s properties.
